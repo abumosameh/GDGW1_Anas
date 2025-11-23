@@ -2,7 +2,6 @@
 
 Sheridan Datathon 2025 Submission > A data-driven platform predicting the future of programming languages using Google BigQuery & Machine Learning.
 
-(Please upload a screenshot of your chart to your repo and update this link!)
 
 ## The Problem
 
