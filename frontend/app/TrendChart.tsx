@@ -108,7 +108,7 @@ export default function TrendChart({ trends }: { trends: TrendData[] }) {
       },
       title: {
         display: true,
-        text: 'Tech Stack Popularity (Polynomial Regression Projection)',
+        text: 'Tech Stack Popularity (Linear Regression Projection)',
         font: { size: 16 }
       },
       tooltip: {
