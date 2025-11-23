@@ -1,0 +1,20 @@
+Security: NEVER upload keys
+
+keys/
+service-account.json
+
+Python Virtual Environment
+
+venv/
+.venv/
+env/
+
+Bytecode (Junk files)
+
+pycache/
+*.pyc
+
+System files
+
+.DS_Store
+.env
