@@ -90,7 +90,7 @@ python3 app.py
 
 Server should be running at http://127.0.0.1:5000
 
-2️⃣ Frontend Setup (Next.js)
+##  Frontend Setup (Next.js)
 
 The frontend visualizes the data with interactive charts.
 
