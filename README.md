@@ -6,8 +6,7 @@ Sheridan Datathon 2025 Submission > A data-driven platform predicting the future
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0c60ef63-5592-4719-8875-d8cd275a4320" />
 
-https://youtu.be/IIQtf1qoexY](https://youtu.be/IlQtf1qoexY
-
+https://youtu.be/IlQtf1qoexY
 
 ## The Problem
 
